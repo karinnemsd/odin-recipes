@@ -1,0 +1,45 @@
+body {
+    background-color: azure;
+}
+h1,
+h2 {
+    color: #28614e;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    text-align: center;
+    }
+
+ul,
+ol {
+    font-family: verdana, sans-serif;
+    color: black;    
+    font-weight: 100;
+    text-align: left;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    text-align: right;
+}
+
+.test {
+    font-size: 18px;
+}
+
+.desc {
+    text-align: center;
+    font-size: 18px;
+    color: blueviolet;
+}
+
+img {
+    height: 200px;
+    width: auto;
+   }
+
+.optiontwo {
+    height: 300px;
+    width: auto;
+}
