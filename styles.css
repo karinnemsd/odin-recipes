@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Acherus Grotesque";
+    src: url("https://www.fontspring.com/fonts/horizon-type/acherus-grotesque");
+}
+
 body {
     background-color: azure;
 }
@@ -42,4 +47,8 @@ img {
 .optiontwo {
     height: 300px;
     width: auto;
+}
+
+.mainh {
+    font-family: "Acherus Grotesque";
 }
